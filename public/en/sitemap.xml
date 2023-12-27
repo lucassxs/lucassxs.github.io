@@ -2,51 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lucassxs.github.io/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://lucassxs.github.io/pt/"
+                href="https://example.com/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://lucassxs.github.io/"
+                href="https://example.com/"
                 />
   </url><url>
-    <loc>https://lucassxs.github.io/blog/</loc>
+    <loc>https://example.com/blog/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lucassxs.github.io/tags/emoji/</loc>
+    <loc>https://example.com/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lucassxs.github.io/blog/emoji.si/</loc>
+    <loc>https://example.com/blog/emoji.si/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lucassxs.github.io/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://lucassxs.github.io/pt/tags/"
+                href="https://example.com/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://lucassxs.github.io/tags/"
+                href="https://example.com/tags/"
                 />
   </url><url>
-    <loc>https://lucassxs.github.io/categories/</loc>
+    <loc>https://example.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://lucassxs.github.io/pt/categories/"
+                href="https://example.com/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://lucassxs.github.io/categories/"
+                href="https://example.com/categories/"
                 />
   </url>
 </urlset>

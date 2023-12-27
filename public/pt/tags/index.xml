@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Bear Cub</title>
-    <link>https://lucassxs.github.io/pt/tags/</link>
+    <link>https://example.com/pt/tags/</link>
     <description>Recent content in Tags on Bear Cub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <copyright>Lucas Stefano (CC BY 4.0)</copyright><atom:link href="https://lucassxs.github.io/pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Lucas Stefano (CC BY 4.0)</copyright><atom:link href="https://example.com/pt/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

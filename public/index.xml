@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bear Cub</title>
-    <link>https://lucassxs.github.io/</link>
+    <link>https://example.com/</link>
     <description>Recent content on Bear Cub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Lucas Stefano (CC BY 4.0)</copyright>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lucassxs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>https://lucassxs.github.io/blog/emoji.si/</link>
+      <link>https://example.com/blog/emoji.si/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       <author>Hugo Authors</author>
-      <guid>https://lucassxs.github.io/blog/emoji.si/</guid>
+      <guid>https://example.com/blog/emoji.si/</guid>
       <description>Emoji can be enabled in a Hugo project in a number of ways.
 </description>
       <content:encoded><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>

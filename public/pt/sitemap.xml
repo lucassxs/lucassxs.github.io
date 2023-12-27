@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lucassxs.github.io/pt/</loc>
+    <loc>https://example.com/pt/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://lucassxs.github.io/"
+                href="https://example.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://lucassxs.github.io/pt/"
+                href="https://example.com/pt/"
                 />
   </url><url>
-    <loc>https://lucassxs.github.io/pt/categories/</loc>
+    <loc>https://example.com/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://lucassxs.github.io/categories/"
+                href="https://example.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://lucassxs.github.io/pt/categories/"
+                href="https://example.com/pt/categories/"
                 />
   </url><url>
-    <loc>https://lucassxs.github.io/pt/tags/</loc>
+    <loc>https://example.com/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://lucassxs.github.io/tags/"
+                href="https://example.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://lucassxs.github.io/pt/tags/"
+                href="https://example.com/pt/tags/"
                 />
   </url>
 </urlset>
