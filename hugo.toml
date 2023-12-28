@@ -1,8 +1,8 @@
 # Basic config
-baseURL = "https://example.com"
+baseURL = "https://lucasstxs.netlify.app/"
 theme = "hugo-bearcub"
 copyright = "Lucas Stefano (CC BY 4.0)"
-defaultContentLanguage = "pt-br"
+defaultContentLanguage = "pt"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
@@ -27,22 +27,24 @@ enableRobotsTXT = true
 # Multilingual mode config. More for information about how to setup translation,
 # see https://gohugo.io/content-management/multilingual/
 [languages]
-    [languages.pt]
-    title = "Bear Cub"
-    languageName = "pt-BR 🇧🇷"
-    LanguageCode = "pt-BR"
-    contentDir = "content.pt"
-    [languages.pt.params]
-      madeWith = "Feito com [Bear Cub](https://github.com/clente/hugo-bearcub)"
-
+    
+         
   [languages.en]
     title = "Bear Cub"
+    disabled = true
     languageName = "en-US 🇺🇸"
     LanguageCode = "en-US"
     contentDir = "content"
     [languages.en.params]
       madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
 
+  [languages.pt]
+    title = "Bear Cub"
+    languageName = "pt-BR 🇧🇷"
+    LanguageCode = "pt-BR"
+    contentDir = "content.pt"
+    [languages.pt.params]
+      madeWith = "Feito com [Bear Cub](https://github.com/clente/hugo-bearcub)"
 
 [params]
   # The description of your website
