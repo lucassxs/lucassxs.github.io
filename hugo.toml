@@ -2,7 +2,7 @@
 baseURL = "https://example.com"
 theme = "hugo-bearcub"
 copyright = "Lucas Stefano (CC BY 4.0)"
-defaultContentLanguage = "en"
+defaultContentLanguage = "pt-br"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
@@ -34,7 +34,7 @@ enableRobotsTXT = true
     contentDir = "content.pt"
     [languages.pt.params]
       madeWith = "Feito com [Bear Cub](https://github.com/clente/hugo-bearcub)"
-      
+
   [languages.en]
     title = "Bear Cub"
     languageName = "en-US 🇺🇸"
