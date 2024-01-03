@@ -8,9 +8,9 @@ weight: 1
 
 Olá!  Seja bem vindo! ｡◕‿◕｡
 
-O meu nome é Lucas Stefano e este é meu site pessoal. Disponibilizo aqui os meus textos relacionados à estatística, programação (principalmente relacionado à R, Python, SQL), *business intelligence* e curiosidades sobre games que eu gosto.
+O meu nome é Lucas Stefano e este é meu site pessoal. 
 
-Sou graduando em Estatísica pela Universidade Estadual de Maringá e presidente da Empresa Júnior na Estats Consultoria.
+Sou graduando em Estatísica pela Universidade Estadual de Maringá e presidente da Empresa Júnior na Estats Consultoria. Tento viver entre o mundo da análise de dados, música, games e da literatura.
 
-A maioria dos meus textos são em português, mas as vezes escrevo em inglês.
+Disponibilizo aqui alguns textos sobre algumas aventuras em ciência de dados e IA, alguns posts são sobre aplicações reais, estudos, dicas ou até mesmo problemas que à primeira vista pode ser não intuitivo pensar em utilizar em análise de dados.
 
