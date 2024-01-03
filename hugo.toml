@@ -30,7 +30,7 @@ enableRobotsTXT = true
     
          
   [languages.en]
-    title = "Bear Cub"
+    title = "Lucas Stefano"
     disabled = true
     languageName = "en-US 🇺🇸"
     LanguageCode = "en-US"
@@ -39,7 +39,7 @@ enableRobotsTXT = true
       madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
 
   [languages.pt]
-    title = "Bear Cub"
+    title = "Lucas Stefano"
     languageName = "pt-BR 🇧🇷"
     LanguageCode = "pt-BR"
     contentDir = "content.pt"
@@ -48,7 +48,7 @@ enableRobotsTXT = true
 
 [params]
   # The description of your website
-  description = "Bear Cub Demo"
+  description = "Meu site pessoal"
 
   # The path to your favicon
   favicon = "images/favicon.png"
@@ -77,10 +77,3 @@ enableRobotsTXT = true
   # `generateSocialCard` to false, you can prevent this behavior. For more
   # information see layouts/partials/seo_tags.html
   generateSocialCard = true
-
-  # Social media. Delete any item you aren't using to make sure it won't show up
-  # in your website's metadata.
-  [social]
-    email = "me@example.com" # Added to the footer so readers can reply to posts
-    twitter = "example" # Twitter handle (without '@')
-    facebook_admin = "0000000000" # Facebook Page Admin ID
